@@ -1,4 +1,4 @@
-# package_name
+# sequence_fibonacci
 
 Description. 
 The package package_name is used to:
@@ -15,14 +15,14 @@ pip install sequencia_fibonacci
 ## Usage
 
 ```python
-from sequencia_fibonacci import fibonacci
+from sequence_fibonacci import fibonacci
 fibonacci.get_sequence(startNumber, endNumber)
 ```
 
 ## Author
 Carlos Alberto Silva Júnior
 
-Python code obtained from the tutorial at: https://www.delftstack.com/pt/howto/python/fibonacci-sequence-python/
+Generated for the course "Descomplicando a criação de pacotes de processamento de imagens em Python" by Digital Innovation One.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

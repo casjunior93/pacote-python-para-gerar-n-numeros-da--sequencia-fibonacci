@@ -1,4 +1,4 @@
-# sequence_fibonacci
+# sequence_fibonacci - Not available yet.
 
 Description. 
 The package package_name is used to:
@@ -6,10 +6,10 @@ The package package_name is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install sequence_fibonacci
 
 ```bash
-pip install sequencia_fibonacci
+pip install sequence_fibonacci
 ```
 
 ## Usage
